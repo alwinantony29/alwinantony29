@@ -1,8 +1,7 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@AlwinAntony/a70c91ec-b174-48e7-9cd7-cb1b85ad553d.png" /></a>
 
 # 💫 About Me:
 
-🌱 I’m currently learning MERN stack web development
+🌱 I’m currently working as a FULL STACK WEB DEVELOPER at vidyalai.com
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_me_alwiii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alwin-antony-5227971b8) 
